@@ -1,0 +1,7 @@
+The Drug "Capomulin" is the only drug to show any significant change in tumor volume, showing a 19% decrease in tumor volume by the end of treatment, where as placebo and the other drugs ranged from 46%-7% increase in volume.
+
+Metastatic spread was shown to increase in all mice, regardless of the drug. However, mice on Capomulin had the slowest spread. Placebo had the highest spread up until the very end of treatment, where it was overtaken by Ketapril.
+
+Regarding survival rates, Capomulin is the only drug with a 100% survival rate by day 10, and had the highest survival rate by the end of course treatment, with over 80% of the mice surviving by day 45. The other drugs and placebo helt a relatively steady death rate, up until day 35, where there was a sharp increase in death on those mice taking Infubinol, which ended with the highest mortality rate. Only about 35% of mice survived Infubinol.
+
+Based on this data, Capomulin is clearly the drug of choice for cancer treatment, and should be recommended for further trials and testing. Infubinol should not be used in any case based on this data, as it ends in a higher mortality rate than placebo.
